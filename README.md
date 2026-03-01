@@ -1,24 +1,35 @@
 ![logo](https://github.com/TusharChaudhary-tcc/TusharChaudhary-tcc/blob/main/banner3%20resize.png)
+
+<!-- ![logo](https://github.com/TusharChaudhary-tcc/TusharChaudhary-tcc/blob/main/banner3%20resize.png) -->
+
 <!-- <h1 align="center">Hi 👋, I'm Tushar Chaudhary</h1> -->
 
 <h3 align="center">CSE @ ABES Engineering College</h3>
-
-<img align="right" width="400px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-
-
-- 🌱 I’m currently learning **C++, Data Structures & Algorithms, HTML, CSS, JavaScript, Git & GitHub**
-
-- Flipkart UI Clone (Live Project) – [https://tusharchaudhary-tcc.github.io/](https://tusharchaudhary-tcc.github.io/)
-
-- I write technical and productivity blogs — check my latest post: [https://tusharchaudhary001.blogspot.com/2025/11/top-10-actionable-learning-hacks-and.html](https://tusharchaudhary001.blogspot.com/2025/11/top-10-actionable-learning-hacks-and.html)
-
-- 💬 Ask me about **C++, DSA Basics, Git & GitHub, Frontend Fundamentals**
-
-- 📫 How to reach me **tusharchaudhary6160@gmail.com**
-
-- ⚡ Fun fact **Consistency beats motivation.**
 <hr>
+
+<img align="right" width="360px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> 
+
+<!-- <img align="right" width="400px" src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif"> -->
+
+<!-- <img align="right" width="350px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> -->
+
+
+<h3 align="center">About me</h3>
+🌱 Learning C++, DSA, HTML, CSS, JavaScript, Git & GitHub
+
+-  Core Focus: Building strong fundamentals in C++ & Data Structures
+
+-  Frontend: Learning HTML, CSS & JavaScript
+
+-  Tools: Practicing Git & GitHub for real-world workflow
+
+-  Projects: Creating and improving hands-on UI clones
+
+-  Growth: Writing blogs on tech & productivity
+
+<hr>
+
+<!-- Connect with me section -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
  <a href="https://www.linkedin.com/in/tushar-chaudhary-44bb9b383/" rel="nofollow" target="_blank">
@@ -41,29 +52,15 @@
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 <hr>
-<!-- <p align="center">
-  <img src="https://quickchart.io/chart?c={
-type:'radar',
-data:{
-labels:['Code Review','Issues','Pull Requests','Commits'],
-datasets:[{
-label:'GitHub Activity',
-data:[45,20,25,30]
-}]
-}
-}" />
-</p> -->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TusharChaudhary-tcc&theme=react-dark)
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TusharChaudhary-tcc&show_icons=true&theme=tokyonight)
 
+<img align="right" width="250px" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TusharChaudhary-tcc&layout=compact&theme=tokyonight)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharchaudhary-tcc&show_icons=true&locale=en&layout=compact" alt="tusharchaudhary-tcc" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharchaudhary-tcc&show_icons=true&locale=en" alt="tusharchaudhary-tcc" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharchaudhary-tcc&" alt="tusharchaudhary-tcc" /></p> -->
 
 
+ <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharchaudhary-tcc&" alt="tusharchaudhary-tcc" /></p> -->
