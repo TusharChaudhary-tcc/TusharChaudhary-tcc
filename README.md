@@ -1,5 +1,7 @@
 ![logo](https://github.com/TusharChaudhary-tcc/TusharChaudhary-tcc/blob/main/banner3%20resize.png)
 <!-- <h1 align="center">Hi 👋, I'm Tushar Chaudhary</h1> -->
+[![LinkedIn Badge](https://img.shields.io)](https://www.linkedin.com/in/tushar-chaudhary-44bb9b383/)
+
 <h3 align="center">CSE @ ABES Engineering College</h3>
 <hr>
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
