@@ -38,6 +38,9 @@
  <a href="https://www.geeksforgeeks.org/profile/tusharchauml4q" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
+ <a href="https://leetcode.com/u/TUSHAR_CHAUDHARY_01/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 <a href="mailto:tusharchaudhary6160@gmail.com" target="_blank">
  <img src="https://camo.githubusercontent.com/efdf52c3de0c9f2464b789202e45dff2fad8291fa2334f39d96402a360566afc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d436f6e746163745f4d652d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
  </a>
