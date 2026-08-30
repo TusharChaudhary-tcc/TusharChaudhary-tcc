@@ -8,10 +8,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Generate github-profile-summary-cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user: TusharChaudhary-tcc
-          theme: tokyonight
+          USERNAME: TusharChaudhary-tcc
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 8
