@@ -118,34 +118,35 @@
 
 <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
-<h3 align="center">📊 GitHub Activity</h3>
+<!-- <h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center">
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=TusharChaudhary-tcc&theme=react-dark&bg_color=0D1117&hide_border=true"
   alt="GitHub Activity Graph"
 />
+</p> -->
+
+<h3 align="center">🔥 GitHub Streak</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TusharChaudhary-tcc&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
-<h3 align="center">📈 GitHub Stats</h3>
-
+<h3 align="center">💻 LeetCode Stats</h3>
 <p align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api?username=TusharChaudhary-tcc&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true"
-  alt="GitHub Stats"
-/>
+  <img src="https://leetcard.jacoblin.cool/TUSHAR_CHAUDHARY_01?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharChaudhary-tcc&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true"
   alt="Top Languages"
 />
-</p>
+</p> -->
 
 <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
