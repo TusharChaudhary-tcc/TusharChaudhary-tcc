@@ -6,7 +6,7 @@
   <b>Aspiring Software Engineer | Web & DSA Learner</b>
 </p>
 
-<hr>
+<img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
 <img align="right" width="360px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
@@ -21,8 +21,7 @@
 
 <br clear="right"/>
 
-<hr>
-
+<img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
@@ -49,7 +48,7 @@
 <img src="https://komarev.com/ghpvc/?username=tusharchaudhary-tcc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<hr>
+<img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 
@@ -73,7 +72,7 @@
 
 </p>
 
-<hr>
+<img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
@@ -85,7 +84,7 @@
 </picture>
 </p>
 
-<hr>
+<img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
 <h3 align="center">📊 GitHub Activity</h3>
 
@@ -96,7 +95,7 @@
 />
 </p>
 
-<hr>
+<img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
 <h3 align="center">📈 GitHub Stats</h3>
 
@@ -116,7 +115,7 @@
 />
 </p>
 
-<hr>
+<img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
 <p align="center">
   <i>✨ Learning every day. Building one project at a time. 🚀</i>
