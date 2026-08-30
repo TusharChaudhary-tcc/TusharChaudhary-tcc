@@ -122,7 +122,7 @@
 
 <p align="center">
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TusharChaudhary-tcc&theme=react-dark"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TusharChaudhary-tcc&theme=react-dark&bg_color=0D1117&hide_border=true"
   alt="GitHub Activity Graph"
 />
 </p>
@@ -133,7 +133,7 @@
 
 <p align="center">
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=TusharChaudhary-tcc&show_icons=true&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api?username=TusharChaudhary-tcc&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true"
   alt="GitHub Stats"
 />
 </p>
@@ -142,7 +142,7 @@
 
 <p align="center">
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TusharChaudhary-tcc&layout=compact&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharChaudhary-tcc&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true"
   alt="Top Languages"
 />
 </p>
