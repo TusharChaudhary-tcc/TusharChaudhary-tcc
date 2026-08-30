@@ -1,27 +1,31 @@
 ![logo](https://github.com/TusharChaudhary-tcc/TusharChaudhary-tcc/blob/main/banner3%20resize.png)
 
-<h3 align="center">CSE @ ABES Engineering College</h3>
+<!-- <h3 align="center">CSE @ ABES Engineering College</h3>
 
 <p align="center">
   <b>Aspiring Software Engineer | Web & DSA Learner</b>
+</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Passion+One&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=CSE+Student+%40+ABES+Engineering+College;Consistency+%3E+Motivation;Turning+Ideas+into+Commits;Learning.+Building.+Growing." alt="Typing SVG">
 </p>
 
 <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
-<img align="right" width="360px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<!-- <img align="right" width="340px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> -->
 
-<h3 align="center">👨‍💻 About Me</h3>
 
-- 🌱 Learning C++, DSA, HTML, CSS, JavaScript, Git & GitHub
-- 💻 Core Focus: Building strong fundamentals in C++ & Data Structures
-- 🎨 Frontend: Learning HTML, CSS & JavaScript
-- 🛠️ Tools: Practicing Git & GitHub for real-world workflow
-- 🚀 Projects: Creating and improving hands-on UI clones
-- ✍️ Growth: Exploring tech, productivity & continuous learning
+### 🚀 About Me
+
+- 🧠 **Core Logic:** Strengthening fundamentals in **DSA & Problem Solving** using **C++**
+- 🌐 **Frontend Development:** Building responsive UIs with **HTML, CSS & JavaScript**
+- 🛠️ **Version Control:** Practicing **Git & GitHub** for real-world collaboration workflows
+- 🚀 **Building:** Working on real-world projects that combine problem-solving with practical development
+- 🎓 **Currently:** CSE undergrad at **ABES Engineering College**, learning by building
 
 <br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
+
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
