@@ -1,17 +1,12 @@
 ![logo](https://github.com/TusharChaudhary-tcc/TusharChaudhary-tcc/blob/main/banner3%20resize.png)
 
-<!-- <h3 align="center">CSE @ ABES Engineering College</h3>
-
-<p align="center">
-  <b>Aspiring Software Engineer | Web & DSA Learner</b>
-</p> -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Passion+One&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=CSE+Student+%40+ABES+Engineering+College;Consistency+%3E+Motivation;Turning+Ideas+into+Commits;Learning.+Building.+Growing." alt="Typing SVG">
 </p>
 
 <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
-<!-- <img align="right" width="340px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> -->
+<!-- <img align="right" width="340px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">  -->
 
 
 ### 🚀 About Me
@@ -54,27 +49,6 @@
 
 <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
-<!-- <h3 align="center">🛠️ Languages & Tools</h3>
-
-<p align="center">
-
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++">
-</a>
-
-<a href="https://www.w3schools.com/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5">
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript">
-</a>
-
-</p> -->
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -118,14 +92,8 @@
 
 <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
-<!-- <h3 align="center">📊 GitHub Activity</h3>
 
-<p align="center">
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TusharChaudhary-tcc&theme=react-dark&bg_color=0D1117&hide_border=true"
-  alt="GitHub Activity Graph"
-/>
-</p> -->
+
 
 <h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
@@ -140,16 +108,30 @@
 </p>
 
 <br>
+<img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
-<!-- <p align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharChaudhary-tcc&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true"
-  alt="Top Languages"
-/>
-</p> -->
+ <h3 align="center">📊 GitHub Activity</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="500">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/profile-summary-card-output/tokyonight/3-stats.svg" width="500">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="380">
+  <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="380">
+</p>
+
 
 <img src="https://raw.githubusercontent.com/TusharChaudhary-tcc/TusharChaudhary-tcc/main/divider.svg" width="100%">
 
-<p align="center">
+<!-- <p align="center">
   <i>✨ Learning every day. Building one project at a time. 🚀</i>
+</p> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:A855F7&height=60&section=header&text=🛠️%20Code%20is%20my%20canvas,%20curiosity%20is%20my%20brush.&fontSize=18&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%">
 </p>
